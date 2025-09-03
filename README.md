@@ -6,7 +6,7 @@ Egyszerű időjárás webes alkalmazás
 
 <i>A szerveroldalon  csatlakozunk az openweathermap api segítségével és lekérjük az adott városra vonatkozó adatokat, hibakezelés ha nem találja majd javascript segítségével a script.js-ben egyszerűen megjelenítjük </i>
 
-<img src="homerseklet.png" alt ="homerseklet">
+<img src="homerseklet.PNG" alt ="homerseklet">
 
 ```
 .gitignore 
